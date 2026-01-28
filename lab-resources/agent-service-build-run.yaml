@@ -10,7 +10,7 @@ spec:
     name: agent-service-build
   params:
     - name: GIT_REPO
-      value: "https://github.com/shebistar"
+      value: "https://github.com/shebistar/etx-agentic-ai-gitops.git"
     - name: GIT_REVISION
       value: "main"
   workspaces:
